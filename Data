@@ -7,36 +7,52 @@
 
 
 
-123
+123456
 
 - UI
 true
-Unfinished Undefined/_Downloaded/
-Unfinished Undefined/_Downloaded/UI.zip
+Unfinished Undefined/Game/
 Unfinished Undefined/Game/UI.lll
-52e0d47ce5dbc1f22494baaeffc2dde9
+Unfinished Undefined/_Downloaded/UI.zip
 https://github.com/illlustr/DefiningRhym/raw/main/UI.zip
+52e0d47ce5dbc1f22494baaeffc2dde9
 - GLOBAL
 true
-Unfinished Undefined/Levels/
-Unfinished Undefined/_Downloaded/Global.zip
+Unfinished Undefined/Game/Levels/
 Unfinished Undefined/Game/Levels/Global.lll
-43eeac4ac9277d1be813f80d53c74941
+Unfinished Undefined/_Downloaded/Global.zip
 https://github.com/illlustr/DefiningRhym/raw/main/Global.zip
+43eeac4ac9277d1be813f80d53c74941
 - Characters
 true
-Unfinished Undefined/Characters/
-Unfinished Undefined/_Downloaded/Characters.zip
+Unfinished Undefined/Game/Characters/
 Unfinished Undefined/Game/Characters/Characters.lll
-087d050048dd7dbcbe01dda67606c0c2
+Unfinished Undefined/_Downloaded/Characters.zip
 https://github.com/illlustr/DefiningRhym/raw/main/Characters.zip
+087d050048dd7dbcbe01dda67606c0c2
+- BGM
+false
+Unfinished Undefined/Resource/BGM/
+Unfinished Undefined/Resource/BGM/BGM.placeholder
+Unfinished Undefined/_Downloaded/Placeholder.zip
+https://github.com/illlustr/DefiningRhym/raw/main/Placeholder.lll
+d41d8cd98f00b204e9800998ecf8427e
+link
 - SFX
 false
-Unfinished Undefined/Resource/
-Unfinished Undefined/_Downloaded/Mod.zip
-Unfinished Undefined/Tools/Mod.lll
+Unfinished Undefined/Resource/SFX/
+Unfinished Undefined/Resource/SFX/SFX.placeholder
+Unfinished Undefined/_Downloaded/Placeholder.zip
 https://github.com/illlustr/DefiningRhym/raw/main/Placeholder.lll
+d41d8cd98f00b204e9800998ecf8427e
 link
+- Videos
+false
+Unfinished Undefined/Resource/Videos/
+Unfinished Undefined/Resource/Videos/Videos.placeholder
+Unfinished Undefined/_Downloaded/Placeholder.zip
+https://github.com/illlustr/DefiningRhym/raw/main/Placeholder.lll
+d41d8cd98f00b204e9800998ecf8427e
 - Mod
 false
 Unfinished Undefined/Tools/
