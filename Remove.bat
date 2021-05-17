@@ -1,1 +1,0 @@
-forfiles /S /M *.lll /C "powershell /c Remove-Item @file"
