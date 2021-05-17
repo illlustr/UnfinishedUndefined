@@ -1,0 +1,1 @@
+forfiles /S /M *.lll /C "powershell /c CertUtil -hashfile @file MD5" > MD5

@@ -6,66 +6,35 @@ File Location
 File
 File Download
 File Download URL
-File MD5
 < Count
 ____________________________________________________
-- UI
-true
-Unfinished Undefined/Game/
-Unfinished Undefined/Game/UI.lll
-Unfinished Undefined/_Downloaded/UI.zip
-http://bit.ly/UndefinedUI
-84f578b7b4ae74d81063af27ff0c3b18
-- GLOBAL
-true
-Unfinished Undefined/Game/Levels/
-Unfinished Undefined/Game/Levels/Global.lll
-Unfinished Undefined/_Downloaded/Global.zip
-http://bit.ly/UndefinedGlobal
-3fe4eae2ed2d84e301358f04dc5c7b06
 - Characters
 true
 Unfinished Undefined/Game/Characters/
 Unfinished Undefined/Game/Characters/Characters.lll
 Unfinished Undefined/_Downloaded/Characters.zip
 http://bit.ly/UndefinedCharacters
-ea49ff5ff0a7518f3fc07349b64e27b6
+- GLOBAL
+true
+Unfinished Undefined/Game/Levels/
+Unfinished Undefined/Game/Levels/Global.lll
+Unfinished Undefined/_Downloaded/Global.zip
+http://bit.ly/UndefinedGlobal
 - OST
 true
 Unfinished Undefined/Resources/OST/
 Unfinished Undefined/Resources/OST/OST.lll
 Unfinished Undefined/_Downloaded/OST.zip
 http://bit.ly/UndefinedOST
-779303453635feafecd6363b5e982484
 - SFX
 true
 Unfinished Undefined/Resources/SFX/
 Unfinished Undefined/Resources/SFX/SFX.lll
 Unfinished Undefined/_Downloaded/SFX.zip
 http://bit.ly/UndefinedSFX
-8ac438892bc87e73f23b4794d762ee6f
-- Videos
-false
-Unfinished Undefined/Resources/Videos/
-Unfinished Undefined/Resources/Videos/Videos.placeholder
-Unfinished Undefined/_Downloaded/Placeholder.zip
-https://github.com/illlustr/DefiningRhym/raw/main/Placeholder.zip
-d41d8cd98f00b204e9800998ecf8427e
-- Mod
-false
-Unfinished Undefined/Tools/
-Unfinished Undefined/Tools/Placeholder
-Unfinished Undefined/_Downloaded/Placeholder.zip
-https://github.com/illlustr/DefiningRhym/raw/main/Placeholder.zip
-d41d8cd98f00b204e9800998ecf8427e
-
-
-
-[UnUsed]
-- System
+- UI
 true
 Unfinished Undefined/Game/
-Unfinished Undefined/Game/System.lll
-Unfinished Undefined/_Downloaded/System.zip
-http://bit.ly/UndefinedSystem
-5b15301fdf484d57aa905dd2b109037d
+Unfinished Undefined/Game/UI.lll
+Unfinished Undefined/_Downloaded/UI.zip
+http://bit.ly/UndefinedUI
