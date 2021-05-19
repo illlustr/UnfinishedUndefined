@@ -1,6 +1,8 @@
 
 [0.2.0.1][21-05-19]
 
+___Add Changelogs URL To Data
+
 ___Update project_map_save.tscn
 
 ___Add TrelloReport Sceen
@@ -10,6 +12,12 @@ ___Create System.tres
 ___Update System.tres
  
 ___Update Debug.tscn
+
+___Update Launcher
+###Added
+- Changelogs Window Label
+- Changelogs Variable
+- Changelogs Script
 
 ###Changed
 - Icon
