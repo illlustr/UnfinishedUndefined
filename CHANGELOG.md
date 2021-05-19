@@ -7,6 +7,24 @@ ___Add TrelloReport Sceen
 
 ___Create System.tres
 
+___Update System.tres
+ 
+___Update Debug.tscn
+
+###Changed
+- Icon
+- Node name
+ 
+___Update StatsEnv.tscn
+
+###Change
+- Change Background Health Color
+ 
+___Update BGM.gd
+
+###Remove
+- 32_OST.wav (Reduce Size 30MB)(Will Add Back Later)
+
 ___Update Debug Sceen
 
 ###Added
