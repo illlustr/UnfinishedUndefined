@@ -14,6 +14,7 @@ ___Update System.tres
 ___Update Debug.tscn
 
 ___Update Launcher
+
 ###Added
 - Changelogs Window Label
 - Changelogs Variable
