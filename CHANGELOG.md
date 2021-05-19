@@ -1,13 +1,13 @@
 
 [0.2.0.1][21-05-19]
 
-**Update project_map_save.tscn
+___Update project_map_save.tscn
 
-**Add TrelloReport Sceen
+___Add TrelloReport Sceen
 
-**Create System.tres
+___Create System.tres
 
-**Update Debug Sceen
+___Update Debug Sceen
 
 ###Added
 - Social Popup Menu
@@ -20,12 +20,12 @@
 ###Remove
 - Animation
 
-**Cleaned Up PopUp.tscn
+___Cleaned Up PopUp.tscn
 
 ###Remove
 - Old PopUp And Script Depenencies
  
-**Update Settings.tscn
+___Update Settings.tscn
 
 ###Added
 - Game section
@@ -38,7 +38,7 @@
 ###Remove
 - Example Section
 
-**Update TrelloReport
+___Update TrelloReport
 
 ###Added
 - Theme
@@ -53,7 +53,7 @@
 - Remove Some Node To Make It Looks Cleaner
 - Feedback_popup tscn
 
-**Update Launcher
+___Update Launcher
 
 ###Change
 - Merge Control script
