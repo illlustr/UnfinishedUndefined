@@ -1,3 +1,21 @@
+
+[0.2.1.1][21-05-20]
+
+___Update Loading Sceen
+
+###Fixed
+- (chance)Loading Progress Animation Not Playing
+ 
+___Update Settings.gd
+
+###Changed
+- Upgrade Launcher Version
+ 
+___Update export_presets.cfg
+
+###Changed
+- Exclude Everything on SFX and OST exept Data
+
 [0.2.1.0][21-05-20]
 
 ___Update Launcher
