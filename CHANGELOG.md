@@ -1,3 +1,53 @@
+[0.2.1.0][21-05-20]
+
+___Update Launcher
+
+###Remove
+- DIsclaimer Node (Move to game.tscn)
+- Disclaimer Node Function and dependecies
+ 
+___Update Loading Sceen
+
+###Added
+- Label For Quote
+- Text List For Quote
+- Randomize Script For Quote
+- Randomize quote function when loading sceen
+
+###Changed
+- Loading Animation
+- Porgressbar loading position on every function
+ 
+___Update Settings.gd
+
+###Changed
+- Set Default Auto start value to True
+ 
+___Update System.tscn
+
+###Added
+- Game.tscn
+
+###Remove
+- Font (move To Game.tscn)
+ 
+___Optimize Export Config
+
+___Add Game.tscn
+
+___Update project.godot
+
+###Changed
+- Default Sceen To Game.tscn
+ 
+___Update DownloadFile.tscn
+
+###Changed
+- Change Downlonad Icon
+- Change Download Progress Backgorund
+
+___Remove all Open Sans Font anf folder
+
 
 [0.2.0.1][21-05-19]
 
