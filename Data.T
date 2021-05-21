@@ -11,13 +11,13 @@ _______________________________________________________
 - Characters
 true
 Unfinished Undefined/Game/
-Unfinished Undefined/Game/Cヾ(￣▽￣)
+Unfinished Undefined/Game/ヾ(￣▽￣).C
 Unfinished Undefined/_Downloaded/Characters.zip
 http://bit.ly/UndefinedCharacters
 - GLOBAL
 true
 Unfinished Undefined/Game/
-Unfinished Undefined/Game/LG(✿◡‿◡)
+Unfinished Undefined/Game/(✿◡‿◡).LG
 Unfinished Undefined/_Downloaded/Global.zip
 http://bit.ly/UndefinedGlobal
 - OST
@@ -35,6 +35,6 @@ http://bit.ly/UndefinedSFX
 - UI
 true
 Unfinished Undefined/Game/
-Unfinished Undefined/Game/ᓚᘏᗢ
+Unfinished Undefined/Game/ᓚᘏᗢ.UI
 Unfinished Undefined/_Downloaded/UI.zip
 http://bit.ly/UndefinedUI
