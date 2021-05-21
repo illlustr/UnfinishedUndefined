@@ -1,4 +1,4 @@
-0.2.Z
+0.2.a
 > Game Latest Release version
 - File Name
 File Import
