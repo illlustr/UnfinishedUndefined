@@ -5,6 +5,9 @@ CertUtil: -hashfile command completed successfully.
 MD5 hash of Global.lll:
 4e1bf150e3113f7d1d331e88aded201d
 CertUtil: -hashfile command completed successfully.
+MD5 hash of ModTool.lll:
+9d0fc983afed6fdb8244ba8745059d8e
+CertUtil: -hashfile command completed successfully.
 MD5 hash of OST.lll:
 2585cc2fae8ce28f1713b9398667b21a
 CertUtil: -hashfile command completed successfully.
