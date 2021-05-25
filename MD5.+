@@ -1,9 +1,9 @@
 
 MD5 hash of Characters.lll:
-40a77f68cfab846d86d488f34e14aa36
+ae3eb40cafdf5dbc39e85551e9e0127b
 CertUtil: -hashfile command completed successfully.
 MD5 hash of Global.lll:
-e615b40b160b354c3f37187b2fe63a95
+2fa24a006c5189c0212c1d363f46b547
 CertUtil: -hashfile command completed successfully.
 MD5 hash of ModTool.lll:
 44d8851290c41e5bc76035ab42a18555
@@ -15,5 +15,5 @@ MD5 hash of SFX.lll:
 f67f262d6198224b4b577167a9f0c9d6
 CertUtil: -hashfile command completed successfully.
 MD5 hash of UI.lll:
-0601b7bae00aae9e63296ab2df1cca24
+8379dca2914ff6347bf4812efa262507
 CertUtil: -hashfile command completed successfully.
