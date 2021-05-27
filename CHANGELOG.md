@@ -1,5 +1,224 @@
+[0.3.1][26-05-20]
 
-[0.3][25-05-20]
+
+___Update MMTurtorials.gd
+
+###Change
+- Refactoring
+ 
+___Update MMStatistic.gd
+
+###Changed
+- statistic data dependencies
+ 
+___Update MMPlay.gd
+
+###Changed
+- Loading sceen to load delay
+ 
+___Update MainMenu.gd
+
+###Added
+- Botton Menu Variable
+- Bottom Menu Function
+- Change Layout Function
+- etc
+
+###Changed
+- Refactoring
+- etc
+ 
+___Update MMTurtorials.tscn
+
+###Added
+- Game Button
+- Game Container
+- Game content explanation
+
+###Changed
+- Revamp
+- Spell Correction
+ 
+___Update MainMenu.tscn
+
+###Added
+- Botton Menu Bar
+- HueColor Sceen
+- Menu Layout changer Button
+- etc
+
+###Changed
+- Separate Credits sceen
+- etc
+ 
+___Update HUD.gd
+
+###Added
+- Inventory trigger
+- Radial Button Detail
+
+###Changed
+- enable inventory button
+ 
+___Update HUD.tscn
+
+###Added
+- Inventory window
+- blur texture
+- daycycle
+- etc
+
+###Changed
+- alot
+ 
+___Update World.tscn
+
+###Added
+- Dawn Animation
+
+###Changed
+- Day cycle animation
+ 
+___Update World.gd
+
+###Changed
+- Refactoring
+ 
+___Update export_presets.cfg
+ 
+___Update project_map_save.tscn
+ 
+___Update Inventory.gd
+
+###Changed
+- Fix Dependencies
+- Reduce Notification Text
+ 
+___Udate System
+
+###Added
+- Monitor Node
+ 
+___Update Settings.gd
+
+###Removed
+- audio button SFX
+ 
+___Update Settings.tscn
+
+###Changed
+- refine Settings
+ 
+___Update Data.gd
+
+###Changed
+- Refactoring
+
+###Fixed
+- Dependencies
+ 
+___Update Player_Data.gd
+
+###Added
+- Player Health stats
+- inventory item variable (placeholders)
+ 
+___Update Settings.gd
+
+###Changed
+- update Version to 0.3
+ 
+___Update Statistic.gd
+
+###Changed
+- almost everyting
+ 
+___Update LoadSceen.gd
+
+###Added
+- Load Delay Function (hide Progressbar)
+
+###Changed
+- animation name for consistency
+ 
+___Update LoadSceen.tscn
+
+###Added
+- Load Delay Animation
+ 
+___Update Debug.tscn
+
+###Added
+- Moniton instance Location
+
+###Changed
+- Disable Social Button
+- Enable Monitor Button
+- Update Margin
+- Scale Down Icon
+ 
+___Update Debug.gd
+
+###Added
+- Moniton Overlay Function
+ 
+___Update DownloadFile.tscn
+
+###Changed
+- Animation
+ 
+___Update Event.tscn
+
+###Changed
+- update Icon
+- etc
+ 
+___Update Event.gd
+
+###Changed
+- spell correction
+- Increase yield time on Error appears from 0.3 to 0.5s
+- remove delay when there are no errors
+ 
+___Create Monitor.tscn
+ 
+___Update project.godot
+
+###Added
+- Register Addon PrefMonitor
+ 
+___Update Interface.gd
+
+###Added
+- Load Delay Fucntion (disable progressbar)
+ 
+___Update Game.tscn
+
+###Changed
+- Disable "Dont Show This Again" function
+ 
+___Update UIMain.tres
+
+###Changed
+- Font Color To White(fffffff)
+ 
+___Create MMCredits.tscn
+
+
+
+[0.3][26-05-20]
+
+
+___Create icon_color_pick.svg
+
+___Add Addon HuePicker
+
+___Add Addon PrefMonitor
+
+
+
+
+[0.2.9][25-05-20]
 
 ___Update Event.tscn
 
