@@ -1,3 +1,163 @@
+
+[0.3][25-05-20]
+
+___Update Event.tscn
+
+###Changed
+- Icon
+- etc
+ 
+___Update Event.gd
+ 
+___Update Game.tscn
+
+###Added
+- Proper layout for disclaimer window
+ 
+___Create Inventory.tscn
+
+###Added
+- Placeholders
+ 
+___Create Inventory.gd
+
+###Added
+- Placeholders
+ 
+___Update World.tscn
+
+###Added
+- Day and Night cycle node system
+- animation
+- canvasmodulator
+- morning animation
+- afternoon animation
+- night animation
+- refine revamp
+- etc
+
+___Update World.gd
+
+###Added
+- Day And Night Cycle Function
+- Refine and Refactoring
+ 
+___Update HandGlove.tres
+ 
+___Update RangeWeapon.tscn
+ 
+___Update Audio.tscn
+
+###Changed
+- Refine Animation
+ 
+___Update Data.tscn
+
+###Changed
+- Rename PlayerData
+ 
+___Update Interface.tscn
+
+###Changed
+- Rename LoadSceen
+ 
+___Update Audio.gd
+
+###Changed
+- Refactoring BGM Switcher
+ 
+___Update WeaponDefault.gd
+
+###Changed
+- TYPE variable to string array
+ 
+___Update HandGlove.tres
+
+###Changed
+- Type
+ 
+___Update BulletHandGlove.tres
+
+###Changed
+- Increase Bullet Speed To 900
+
+___Update RadialButton
+
+###Changed
+- Theme
+ 
+___Update Game.tscn
+
+###Added
+- Dont Show again Check Box for Disclaimer
+ 
+___Update export_presets.cfg
+
+###Changed
+- Exclude Filter
+ 
+___Update TrelloReport.gd
+
+###Added
+- Statistics Request
+ 
+___Update ReportPopup.gd
+
+###Added
+- Statistics Request
+ 
+___Update gdunzip.gd
+
+###Fixed
+- Shadowing Variable
+ 
+___Update DownloadFile.tscn
+
+###Changed
+- Animation
+ 
+___Update DownloadFile.gd
+
+###Remove
+- Unused Variable
+
+###Fixed
+- Download Indicator Done
+- Statistics Data
+ 
+___Update temp.gd
+ 
+___Update System/Button
+
+###Changed
+- Buid in Script
+
+###Remove
+- Old Separate Script
+ 
+___Rename OST Name
+
+###Added
+- UU Prototype Chill Maybe.mp3
+
+###Changed
+- Rename
+
+
+
+[0.2.8][24-05-20]
+
+
+___Update Plugin
+
+___Update Master.tres
+
+###Added
+- Add LowPasFilter
+
+
+
+
 [0.2.8][23-05-20]
 
 
