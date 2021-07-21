@@ -1,9 +1,12 @@
 
+MD5 hash of Assets.lll:
+4540fa861a44dbbaa16c69b531822933
+CertUtil: -hashfile command completed successfully.
 MD5 hash of Characters.lll:
 3f111001bcab6561bf6e155fcc1dbfc8
 CertUtil: -hashfile command completed successfully.
 MD5 hash of Global.lll:
-39f88e105a4c2ee0d1b160306cfcac5b
+9cd8539f625890b6561fdda7d1061551
 CertUtil: -hashfile command completed successfully.
 MD5 hash of ModTool.lll:
 04fdbc2975fccb8554373533c6351ab3
