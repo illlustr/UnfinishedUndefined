@@ -1,19 +1,22 @@
 
+MD5 hash of Assets.lll:
+1c1dce176ecc0441815b77c6858a3123
+CertUtil: -hashfile command completed successfully.
 MD5 hash of Characters.lll:
-52a0c278e7c5e9ce949fafb30043deed
+581768516dd9852ea9cd9cfbac024068
 CertUtil: -hashfile command completed successfully.
 MD5 hash of Global.lll:
-4c649a41dd5c178d95aa32998dfdd345
+4bfe62546d60a435fd244f7a16b674e1
 CertUtil: -hashfile command completed successfully.
 MD5 hash of ModTool.lll:
-3a9d09ca404c71242725087f813cedaf
+9d7afe85d6276267759bc60ba4317738
 CertUtil: -hashfile command completed successfully.
 MD5 hash of OST.lll:
-a020d9bd1c97ba67956d1a26fb3ee0e6
+e88b865ea8468aa8e56b40b27b62f46c
 CertUtil: -hashfile command completed successfully.
 MD5 hash of SFX.lll:
-bfdbefbbd9d57cb60167ec24b0367f1b
+0e2df4b1719f87785b191a9c1d052bc7
 CertUtil: -hashfile command completed successfully.
 MD5 hash of UI.lll:
-7a2c7bb6a1a55a3ecd73738c30bd19e1
+76cc605835823683b938c7586ec253c4
 CertUtil: -hashfile command completed successfully.
