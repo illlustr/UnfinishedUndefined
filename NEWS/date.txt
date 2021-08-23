@@ -1,3 +1,23 @@
+DOC:
+line 0 = Total News
+first line = List or Image (bool: leave blank if it's not Image)
+
+if list:
+	next line = Headder //default code : [color=#e75c5c][u][b]<HEADDER TEXT>[/b][/u][/color]
+	next line = Total List : int
+	next line = the list
+if Image:
+	next line = Headder //default code : [color=#e75c5c][u][b]<HEADDER TEXT>[/b][/u][/color]
+	next line = Image URL
+	next line = Content
+
+
+
+
+
+
+
+
 3
 
 [color=#e75c5c][u][b]<Upcoming Update>[/b][/u][/color]
@@ -13,17 +33,3 @@ https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/tilelll.png
 [color=#e75c5c][u][b]<Idea>[/b][/u][/color]
 https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/StateMachine.png
 [fade start=20 length=8][s]testing for image content[/s][/fade]
-
-
-DOC:
-line 0 = Total News
-fist line = List or Image (leave blank if it's not Image)
-
-if list:
-	next line = Headder //defalut code : [color=#e75c5c][u][b]<HEADDER TEXT>[/b][/u][/color]
-	next line = Total List : int
-	next line = the list
-if Image:
-	next line = Headder //defalut code : [u][b]<HEADDER TEXT>[/b][/u]
-	next line = Image URL
-	next line = Content
