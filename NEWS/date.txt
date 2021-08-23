@@ -6,11 +6,11 @@
 - 2nd Characters
 - Enemy
 *
-[color=#e75c5c][u][b]<screenshot label>[/b][/u][/color]
+[color=#e75c5c][u][b]<Screenshot Label>[/b][/u][/color]
 https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/tilelll.png
-[fade start=20 length=8][s]testing for screenshoot doc[/s][/fade]
+[fade start=20 length=8][s]testing for screenshoot[/s][/fade]
 *
-[color=#e75c5c][u][b]<idea>[/b][/u][/color]
+[color=#e75c5c][u][b]<Idea>[/b][/u][/color]
 https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/StateMachine.png
 [fade start=20 length=8][s]testing for image content[/s][/fade]
 
