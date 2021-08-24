@@ -18,18 +18,24 @@ if Image:
 
 
 
-3
+4
 
 [color=#e75c5c][u][b]<Upcoming Update>[/b][/u][/color]
-3
+4
 - Player Attack System
 - 2nd Characters
 - Enemy
+- NEWS System
+[color=#e75c5c][u][b]<Ideas>[/b][/u][/color]
+3
+- make user control 2 character or make characters have different looks and skills when in ultimate mode?
+- Enemy
+- 
 *
-[color=#e75c5c][u][b]<Screenshot Label>[/b][/u][/color]
-https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/tilelll.png
-[fade start=20 length=8][s]testing for screenshoot[/s][/fade]
+[color=#e75c5c][u][b]<Expand The World>[/b][/u][/color]
+https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/editworld.png
+experimenting on how to make the world balanced and not boring, I hope I can find a balance point, what do you think of the world in the current version? I would be very happy if you would share your thoughts and suggestions!
 *
-[color=#e75c5c][u][b]<Idea>[/b][/u][/color]
+[color=#e75c5c][u][b]<Placeholder>[/b][/u][/color]
 https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/StateMachine.png
-[fade start=20 length=8][s]testing for image content[/s][/fade]
+[fade start=20 length=8][s]mark[/s][/fade]
