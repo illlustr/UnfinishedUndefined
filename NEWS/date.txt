@@ -1,5 +1,5 @@
 DOC:
-line 0 = Total News
+line 21 = Total News
 first line = List or Image (bool: leave blank if it's not Image)
 
 if list:
