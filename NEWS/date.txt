@@ -18,7 +18,7 @@ if Image:
 
 
 
-4
+5
 
 [color=#e75c5c][u][b]<Upcoming Update>[/b][/u][/color]
 4
@@ -40,3 +40,9 @@ experimenting on how to make the world balanced and not boring, I hope I can fin
 [color=#e75c5c][u][b]<Placeholder>[/b][/u][/color]
 https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/StateMachine.png
 [fade start=20 length=8][s]mark[/s][/fade]
+
+[color=#e75c5c][u][b]<Known Issue>[/b][/u][/color]
+3
+- there is a small chance when the program is first run, instead of creating an "Unfinished Undefined" folder the program will create an additional folder before the Unfinished Undefined folder //This bug does not affect the game.
+- if you select another option other than "Report" in "Tool Shortcut" on launcher, the game will crash, this is happen because the required resources have not been imported by launcher, if you want to open other options, you have to enter the main menu first formerly.
+- dash doesn't happen if you don't press direction \\ will be fixed soon.
