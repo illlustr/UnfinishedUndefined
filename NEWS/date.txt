@@ -26,6 +26,7 @@ if Image:
 - 2nd Characters
 - Enemy
 - NEWS System
+
 [color=#e75c5c][u][b]<Ideas>[/b][/u][/color]
 3
 - make user control 2 character or make characters have different looks and skills when in ultimate mode?
