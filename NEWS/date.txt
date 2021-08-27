@@ -27,11 +27,11 @@ if Image:
 - Enemy
 - NEWS System
 
-[color=#e75c5c][u][b]<Ideas>[/b][/u][/color]
+[color=#e75c5c][u][b]<Random Ideas>[/b][/u][/color]
 3
 - make user control 2 character or make characters have different looks and skills when in ultimate mode?
-- Enemy
 - 
+- Hair Physics so it doesn't locked on Animation
 *
 [color=#e75c5c][u][b]<Expand The World>[/b][/u][/color]
 https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/editworld.png
@@ -43,6 +43,6 @@ https://github.com/illlustr/UnfinishedUndefined/raw/main/NEWS/StateMachine.png
 
 [color=#e75c5c][u][b]<Known Issue>[/b][/u][/color]
 3
-- there is a small chance when the program is running for the first time, instead of creating an "Unfinished Undefined" folder the program will create an additional folder before the Unfinished Undefined folder //This bug does not affect the game. (pst.. and i dont have any idea why)
+- there is a small chance when the program is running for the first time, instead of creating an "Unfinished Undefined" folder the program will create an additional folder before the Unfinished Undefined folder // This bug does not affect the game. (pst.. and i dont have any idea why)
 - if you select another option other than "Report" in "Tool Shortcut" on launcher, the game will crash, this is happen because the required resources have not been imported by launcher, if you want to open other options, you have to enter the main menu first formerly. // it's there just in case there's a glitch in the launcher so you can report the problem right away.
 - dash doesn't happen if you don't press direction // will be fixed soon. 
